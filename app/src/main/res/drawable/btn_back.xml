@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //For making only borders
+    <stroke
+        android:color="#32136A"
+        android:width="2dp"
+        />
+
+    //curve effect
+    <corners
+
+        android:radius="6dp"
+        />
+</shape>
